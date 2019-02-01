@@ -6,3 +6,8 @@ body {
     margin: auto;
     max-width: 800px;
 }
+
+a, a:link {
+    color: #69E;
+
+}
