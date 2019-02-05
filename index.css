@@ -7,7 +7,14 @@ body {
     max-width: 800px;
 }
 
-a, a:link {
-    color: #69E;
+li {
+    margin-bottom: 10px;
+}
 
+a, a:link {
+    color: #69F;
+
+}
+a:hover {
+    text-shadow: 0 7px 5px rgba(0,0,0,0.8);
 }
